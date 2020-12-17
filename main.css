@@ -1,0 +1,57 @@
+.snowlet {
+    width: 195px;
+    height: 48px;
+    object-fit: contain;
+    font-family: AppleSDGothicNeo;
+    font-size: 40px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #759cdc;
+  }
+
+  .Bitmap {
+    width: 41px;
+    height: 43px;
+  }>
+
+
+  .Oval {
+    width: 37px;
+    height: 36px;
+    border: solid 3px #000000;
+    background-color: #ffffff;
+  }
+  .Line-2 {
+    width: 9px;
+    height: 15px;
+    border: solid 3px #000000;
+    background-color: #ffffff;
+  }
+
+  {
+    width: 174px;
+    height: 31px;
+    font-family: AppleSDGothicNeo;
+    font-size: 25px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #000000;
+  }
+
+
+
+.Rectangle {
+    width: 981px;
+    height: 292px;
+    border-radius: 50px;
+    border: solid 1px #ffffff;
+    background-color: #e6e6e6;
+  }
